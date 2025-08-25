@@ -51,30 +51,3 @@ aside {
   overflow-y: auto;
   background: #e8e8e8;
   padding: 1rem;
-}
-
-/* FOOTER */
-footer {
-  background-color: #333;
-  color: white;
-  text-align: center;
-  padding: 1rem;
-}
-
-/* TABLE */
-table {
-  width: 100%;
-  border-collapse: collapse;
-  margin-top: 1rem;
-}
-
-th, td {
-  border: 1px solid #ccc;
-  padding: 8px;
-  text-align: left;
-}
-
-thead th {
-  background: #444;
-  color: white;
-}
